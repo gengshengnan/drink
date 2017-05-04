@@ -65,7 +65,7 @@
                 <li class="ban">
                     <a href="#/newShops">
                      <div class="border font_eight"><i class="iconfont">&#xe60b;</i></div>
-                    <span>姜民做的页</span>
+                    <span>姜民做的页哈哈哈哈哈哈哈哈哈</span>
                     </a>
                 </li>
           </ul>
