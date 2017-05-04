@@ -5,7 +5,7 @@
        <!-- 轮播 -->
        <div id="pics" class="swiper-container">
            <div class="swiper-wrapper">
-                <img class="swiper-slide" src="../../images/pic.jpg"/>
+                <img class="swiper-slide " src="../../images/pic.jpg"/>
                 <img class="swiper-slide" src="../../images/pic1.jpg"/>
                 <img class="swiper-slide" src="../../images/pic2.jpg"/>
                 <img class="swiper-slide" src="../../images/pic3.jpg"/>
@@ -65,7 +65,7 @@
                 <li class="ban">
                     <a href="#/newShops">
                      <div class="border font_eight"><i class="iconfont">&#xe60b;</i></div>
-                    <span>姜民做的页</span>
+                    <span>新品发布汇那你接口设计局开具的多长时间也成本价还是采用固定收益侧边呼吸急促股以上的不参加好多个出属于比较好吃过的布局回复买房贷款没法打</span>
                     </a>
                 </li>
           </ul>
