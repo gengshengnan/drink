@@ -2,7 +2,7 @@
 <div id="container">
       <head-top signin-up='msite'>
       </head-top>  
-       <!-- 图片轮播 -->
+       <!-- 轮播 -->
        <div id="pics" class="swiper-container">
            <div class="swiper-wrapper">
                 <img class="swiper-slide" src="../../images/pic.jpg"/>
