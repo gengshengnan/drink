@@ -65,7 +65,6 @@
                 <li class="ban">
                     <a href="#/newShops">
                      <div class="border font_eight"><i class="iconfont">&#xe60b;</i></div>
-
                     <span>新品发布汇姜民做的页哈哈哈哈哈哈哈哈哈<a href="#">12</a></span>
                     </a>
                 </li>
