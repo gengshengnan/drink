@@ -3,7 +3,7 @@
         <div class="spirit_head">
             <div class="head">
                 <a class="back" href="/#msite" ></a>
-                <h2 class="headTitle">新品发布汇</h2>
+                <h2 class="headTitle">姜民。。。</h2>
                 <a class="navBar active" href="javascript:;"></a>
             </div>
             <ul class="nav">
