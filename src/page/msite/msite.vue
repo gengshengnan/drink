@@ -9,6 +9,7 @@
                 <img class="swiper-slide" src="../../images/pic1.jpg"/>
                 <img class="swiper-slide" src="../../images/pic2.jpg"/>
                 <img class="swiper-slide" src="../../images/pic3.jpg"/>
+                <img class="swiper-slide" src="../../images/pic7.jpg"/>
                 <img class="swiper-slide" src="../../images/pic4.jpg"/>
                 <img class="swiper-slide" src="../../images/pic5.jpg"/>
                 <img class="swiper-slide" src="../../images/pic6.jpg"/>
