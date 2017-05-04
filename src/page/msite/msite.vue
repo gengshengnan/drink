@@ -65,7 +65,6 @@
                 <li class="ban">
                     <a href="#/newShops">
                      <div class="border font_eight"><i class="iconfont">&#xe60b;</i></div>
-
                     <span>新品发布汇</span>
                     </a>
                 </li>
