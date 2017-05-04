@@ -65,7 +65,10 @@
                 <li class="ban">
                     <a href="#/newShops">
                      <div class="border font_eight"><i class="iconfont">&#xe60b;</i></div>
+
                     <span>12312312</span>
+
+                    <span>新品发布汇姜民做的页哈哈哈哈哈哈哈哈哈<a href="#">123</a></span>
                     </a>
                 </li>
           </ul>
